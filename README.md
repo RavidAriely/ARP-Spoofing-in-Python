@@ -65,4 +65,3 @@ Before running the ARP Spoofing, check the victim's ARP cache using ```arp``` co
 Run the ARP Spoofing tool and recheck the victim's ARP cache to see the attacker's MAC address instead of the gateway MAC address:
 ![after](demo/after.jpg)
 
-# ARP-Spoofing-in-Python
