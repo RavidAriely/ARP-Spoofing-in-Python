@@ -1,0 +1,9 @@
+[Network]
+Interface = ens33
+Victim MAC = 00:0c:29:4f:90:83
+Victim IP = 192.168.213.135
+Gateway MAC = 00:50:56:e0:65:8c
+Gateway IP = 192.168.213.2
+Attacker MAC = 00:0c:29:15:9d:de
+Sys Path = /home/attacker/.local/lib/python3.8/site-packages
+
