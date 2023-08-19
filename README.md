@@ -50,7 +50,7 @@ Two Ubuntu virtual machines with sudo access (attacker and victim).
       sudo python3 ARP_spoofing.py
       ```
     ```bash
-      sudo python3 sniff_forward_ethtool.py
+      sudo python3 sniff_forward.py
       ```
 
    
